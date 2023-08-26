@@ -25,7 +25,7 @@ I'm passionate about collaborating with others and sharing knowledge. I'm always
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RaoHammas&theme=radical&hide_border=true&column=-1&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api?username=RaoHammas&theme=radical&hide_border=true&include_all_commits=true&count_private=true&column=-1&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHammas&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaoHammas&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true)  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaoHammas&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=-1)
