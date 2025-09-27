@@ -1,11 +1,7 @@
 <div align="center">
 
 # 💫 About Me
-Hello, I'm Rao Hammas, a software engineer from Pakistan. I have a Bachelor's degree in Computer Science and I'm currently pursuing an Masters in the same field.
-
-I'm skilled in C# and WPF, with over 6 years of experience in .NET technologies. I've worked on critical care medical device software, professional enterprise level Trading application and ERP systems for companies like Toyota. My expertise lies in building WPF applications, and I'm well-versed in MSSQL-Server, Dapper ORM, ADO.NET and other .net technologies.
-
-I'm passionate about collaborating with others and sharing knowledge. I'm always eager to learn and contribute to the development community.
+Tech Lead & Software Engineer from Pakistan. Holding a master's degree in computer science, I specialize in C# and WPF, with over seven years of experience in .NET technologies. My expertise includes developing robust, high-performance desktop-based trading applications, critical care medical device software, and ERP systems for clients like Toyota. Proficient in MSSQL-Server, Dapper ORM, and ADO.NET, I’m passionate about building innovative solutions, collaborating with teams, and sharing knowledge within the development community.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-hammas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6612831) [![Website](https://img.shields.io/badge/-Website-230077B5?logo=git&logoColor=white)](https://raohammas.github.io) 
